@@ -1,11 +1,11 @@
 # Student-Test-Scores
 Exploratory Data Analysis using a Students Performance in Exams data set.
 
-The Notebook can be found here https://www.kaggle.com/code/bronsonb/happiness-score-2019-eda-prediction
+The Notebook can be found here https://www.kaggle.com/code/bronsonb/student-test-scores-eda#Summary
 
-The Data Set can be found here https://www.kaggle.com/datasets/unsdsn/world-happiness
+The Data Set can be found here https://www.kaggle.com/code/bronsonb/student-test-scores-eda
 
-The following are the Graphs in the notebook:![24](https://github.com/BronsonBagwell/Student-Test-Scores/assets/95597155/a1c4b656-e3b7-4a37-be98-1087a8cba075)
+The following are the Graphs in the notebook:
 ![1](https://github.com/BronsonBagwell/Student-Test-Scores/assets/95597155/d6d542a3-7822-40a9-a3fe-252a97e2542e)
 ![2](https://github.com/BronsonBagwell/Student-Test-Scores/assets/95597155/347c99f7-e412-4845-aa71-21fd8817859b)
 ![3](https://github.com/BronsonBagwell/Student-Test-Scores/assets/95597155/e7db6979-595b-4dd2-bb67-6b918d181a12)
