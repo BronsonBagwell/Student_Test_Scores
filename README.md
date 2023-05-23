@@ -1,9 +1,9 @@
 # Student-Test-Scores
 Exploratory Data Analysis using a Students Performance in Exams data set.
 
-The Notebook can be found here https://www.kaggle.com/code/bronsonb/student-test-scores-eda#Summary
+The Notebook can be found here https://www.kaggle.com/code/bronsonb/student-test-scores-eda
 
-The Data Set can be found here https://www.kaggle.com/code/bronsonb/student-test-scores-eda
+The Data Set can be found here https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 
 The following are the Graphs in the notebook:
 ![1](https://github.com/BronsonBagwell/Student-Test-Scores/assets/95597155/d6d542a3-7822-40a9-a3fe-252a97e2542e)
