@@ -1,5 +1,5 @@
 # Student-Test-Scores
-Exploratory Data Analysis using a Students Performance in Exams data set.
+R Exploratory Data Analysis using a Students Performance in Exams data set.
 
 The Notebook can be found here https://www.kaggle.com/code/bronsonb/student-test-scores-eda
 
