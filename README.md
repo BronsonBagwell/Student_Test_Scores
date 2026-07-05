@@ -27,5 +27,5 @@ This project explores a Kaggle dataset of US high school student exam scores to 
 
 ## How to Run
 1. Clone the repository: `git clone https://github.com/BronsonBagwell/Student_Test_Scores.git`
-2. Open the R Markdown or HTML file in RStudio
+2. Open `student-test-scores-eda.ipynb` in Jupyter with an R kernel; the included `StudentsPerformance.csv` is read from the repo root
 3. Or [view on Kaggle](https://www.kaggle.com/code/bronsonb/student-test-scores-eda)
